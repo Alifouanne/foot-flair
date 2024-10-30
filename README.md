@@ -113,7 +113,7 @@ Foot Flair is a modern, full-featured e-commerce application for selling shoes. 
 
 ## Contact
 
-For any inquiries or support, please contact [your-email@example.com](mailto:alifouanne8@gmail.com).
+For any inquiries or support, please contact [alifouanne8@gmail.com)](mailto:alifouanne8@gmail.com).
 
 ```
 
